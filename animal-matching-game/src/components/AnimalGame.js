@@ -6,7 +6,7 @@ function AnimalGame() {
   // Initialize the random animal directly when the component is loaded
   const randomIndex = Math.floor(Math.random() * animals.length);
   const [randomAnimal] = useState(animals[randomIndex]); // Static random animal
-  const [result, setResult] = useState('Result'); // Default result text
+  const [result, setResult] = useState(" "); // Default result text
 
   const handleAnimalClick = (clickedName) => {
     // Update the result based on the clicked animal
