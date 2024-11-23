@@ -18,16 +18,16 @@
   }
   
   .result-header {
-    color: #050302; /* Tomato red */
+    color: #050302; 
   }
   
   .animal-name-header {
-    color: #050302; /* Steel blue */
+    color: #050302; 
   }
   
   .grid-header {
-    color: #050302; /* Sea green */
-    background-color: #d8f3dc; /* Light greenish background */
+    color: #050302; 
+    background-color: #f3f7f3; 
   }
   
   .result-panel {
@@ -35,15 +35,15 @@
     padding: 20px;
     font-size: 1.5em;
     font-weight: bold;
-    color: #ff6347; /* Tomato red */
+    color: #ff6347; 
   }
   
   .result.win {
-    color: rgb(240, 98, 17); /* Win color */
+    color: rgb(240, 98, 17); 
   }
   
   .result.lose {
-    color: rgb(240, 98, 17); /* Lose color */
+    color: rgb(240, 98, 17); 
   }
   
   .animal-name-panel {
@@ -51,11 +51,11 @@
     padding: 20px;
     font-size: 1.5em;
     font-weight: bold;
-    color: rgb(240, 98, 17); /* Steel blue */
+    color: rgb(240, 98, 17);
   }
   
   .grid-panel {
-    background-color: #add8e6; /* Light blue background for the grid */
+    background-color: #add8e6; 
     padding: 20px;
   }
   
