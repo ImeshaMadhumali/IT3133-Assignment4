@@ -12,10 +12,6 @@ Installation and Setup the project
 
 How to Play
 
-A random animal name will appear at the top of the screen. Click on the image of the animal that matches the name. If your selection is correct, you’ll see a "Win!" alert. Otherwise, you’ll see a "Lose!" alert. Click the "Show Random Animal" button to start a new round.
+A random animal name will appear at the top of the screen. Click on the image of the animal that matches the name. If your selection is correct, you’ll see a "Win" in thr Result column. Otherwise, you’ll see a "Lose". Again refresh the page and do the game!.
 
-Project Structure
 
--> App.js #Main component -> AnimalsDb.js # Animal data -> App.css # Styling -> index.js # Entry point
-
-Output
