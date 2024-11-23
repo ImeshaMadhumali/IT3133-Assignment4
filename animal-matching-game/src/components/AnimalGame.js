@@ -29,6 +29,7 @@ function AnimalGame() {
               img={animal.img}
               name={animal.name}
               onClick={handleAnimalClick}
+              borderColor={randomAnimal.name === animal.name ? "#4682b4" : "transparent"}
             />
           ))}
         </tr>
