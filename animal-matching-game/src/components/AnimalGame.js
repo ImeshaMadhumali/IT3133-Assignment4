@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import AnimalCard from './AnimalCard';
-import { animals } from '../assets/data/AnimalsDb';
+import { animals } from '../assets/data/AnimalDb';
 
 function AnimalGame() {
   const [randomAnimal, setRandomAnimal] = useState({});
